@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Hestia.Logging.AliCloudLogService" Version="1.0.5" />
+    <PackageReference Include="Hestia.Logging.AliCloudLogService" Version="1.0.6" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
   </ItemGroup>
 </Project>
